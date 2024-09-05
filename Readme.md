@@ -1,3 +1,7 @@
+All rules are the same, in order to use AI in HK.
 
-.conf file is for shadowsocks
-.ini and .list file is for Clash
+# shadowsocks
+.conf file
+
+# Clash
+.ini and .list files
